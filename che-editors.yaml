@@ -22,7 +22,7 @@ editors:
     components:
       - name: theia-ide
         container:
-          image: 'quay.io/eclipse/che-theia:next'
+          image: 'hub.docker.com/r/goncalorolo/smartclide-che-theia:next'
           env:
             - name: THEIA_PLUGINS
               value: 'local-dir:///plugins'

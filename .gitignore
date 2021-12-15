@@ -23,7 +23,7 @@ v3/**/latest/
 node_modules/
 .eslintcache
 coverage
-output
+# output
 tools/automation/report/.vuepress/dist
 tools/automation/report/che-plugin-registry
 
